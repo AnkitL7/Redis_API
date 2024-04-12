@@ -1,5 +1,5 @@
-#Instructions:
+<h1>Instructions:</h1>
 
-Step 1: Run npm install
+<h3>Step 1: Run npm install</h3>
 
-Step 2: Run npm start
+<h3>Step 2: Run npm start</h3>
